@@ -1,0 +1,42 @@
+[
+  {
+    "id": "02ba7642-612b-4f93-89d7-0ff3793cc196",
+    "type": "EXPENSE",
+    "amount": 5000000.0,
+    "categoryName": "Foya Foya",
+    "description": "dugem di lil tiger",
+    "date": "2025-07-09"
+  },
+  {
+    "id": "57c732e9-8051-4e06-ba21-d539aa243f1d",
+    "type": "INCOME",
+    "amount": 30000.0,
+    "categoryName": "Makanan \u0026 Minuman",
+    "description": "Makan malam",
+    "date": "2025-07-03"
+  },
+  {
+    "id": "45218d0f-addf-4da5-a77b-879363e69a5e",
+    "type": "EXPENSE",
+    "amount": 20000.0,
+    "categoryName": "Makanan \u0026 Minuman",
+    "description": "mavera (makan siang)",
+    "date": "2025-06-16"
+  },
+  {
+    "id": "cd314801-f5e7-4166-b6d8-95658583067f",
+    "type": "EXPENSE",
+    "amount": 700000.0,
+    "categoryName": "Hiburan",
+    "description": "dugem di senopati",
+    "date": "2025-06-16"
+  },
+  {
+    "id": "0804cf6d-751b-462a-9c17-180fefb9c9e8",
+    "type": "INCOME",
+    "amount": 1.0E7,
+    "categoryName": "Makanan \u0026 Minuman",
+    "description": "maksi dari 02",
+    "date": "2025-06-16"
+  }
+]

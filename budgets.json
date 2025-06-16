@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3eee38ca-f830-4033-b73d-1a84e00e2ad7",
+    "categoryName": "Makanan \u0026 Minuman",
+    "amount": 1000000.0,
+    "month": "2025-06"
+  },
+  {
+    "id": "7aa1b99d-d79c-4ffa-af51-38c607cee1c3",
+    "categoryName": "Transportasi",
+    "amount": 1000000.0,
+    "month": "2025-06"
+  },
+  {
+    "id": "6b584ee3-2b31-4690-9f99-7bac06fd9b69",
+    "categoryName": "Belanja",
+    "amount": 600000.0,
+    "month": "2025-06"
+  },
+  {
+    "id": "3e7324b8-3f25-4b84-b86e-58c535734828",
+    "categoryName": "Hiburan",
+    "amount": 500000.0,
+    "month": "2025-06"
+  }
+]
